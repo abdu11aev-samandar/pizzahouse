@@ -20,6 +20,10 @@
             <div class="title m-b-md">
                 Pizza List
             </div>
+
+            <p>{{$name}}</p>
+            <p>{{$age}}</p>
+
         </div>
     </div>
 @endsection
